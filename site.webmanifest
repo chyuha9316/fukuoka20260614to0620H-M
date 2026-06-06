@@ -1,0 +1,22 @@
+{
+  "name": "福岡 2026｜旅行手帳",
+  "short_name": "福岡手帳",
+  "description": "福岡 2026 互動旅遊手帳",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#604137",
+  "theme_color": "#604137",
+  "icons": [
+    {
+      "src": "apple-touch-icon.png",
+      "sizes": "180x180",
+      "type": "image/png"
+    },
+    {
+      "src": "fukuoka-icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
